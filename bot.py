@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 import logging
 import os
 
-TOKEN = '5600897776:AAFtRZ3K4ynX2-T-btPg7Jb9BywbUM2BoE8'
+TOKEN = ''
 path = '/mnt/share'
 
 bot = telegram.Bot(TOKEN)
